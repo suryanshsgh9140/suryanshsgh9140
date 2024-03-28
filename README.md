@@ -1,4 +1,4 @@
-![logo](https://github.com/suryanshsgh9140/suryanshsgh9140/blob/main/InShot_20230321_020445258.jpg)
+![logo]
 <h1 align="center">Hi 👋, I'm Suryansh Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
