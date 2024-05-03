@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/suryansh9140" target="blank"><img src="https://img.shields.io/twitter/follow/suryansh9140?logo=twitter&style=for-the-badge" alt="suryansh9140" /></a> </p>
 
-- 🔭 I’m currently working on **Projects using react**
+- 🔭 I’m currently working on **Project using springboot**
 
-- 🌱 I’m currently learning **full stack web development ,DSA**
+- 🌱 I’m currently learning **Full Stack Web Development ,DSA ,Java Developer**
 
 - 👯 I’m looking to collaborate on **E_commerce website**
 
@@ -18,11 +18,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/suryanshsgh9140/Portfolio-website](https://github.com/suryanshsgh9140/Portfolio-website)
 
-- 💬 Ask me about **Reactjs,javascript, Nodejs, Expressjs, MongoDb, html,css,dsa Operting System,DBMS**
+- 💬 Ask me about **Reactjs,Javascript, SpringBoot,Docker, MongoDb, Html,CSS(Tailwind),Java OS,DBMS,Computer Networking ,System Design**
 
 - 📫 How to reach me **suryansh143l@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/suryansh-pratap-singh-9b8624219/](https://www.linkedin.com/in/suryansh-pratap-singh-9b8624219/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/suryanshsgh/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
